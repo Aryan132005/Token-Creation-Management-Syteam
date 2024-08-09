@@ -1,4 +1,4 @@
-# token-creation and management
+# token creation and management
 # Team Name:
 # Code Runner67
 # Team Member:
