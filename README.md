@@ -1,6 +1,7 @@
 # Token creation and management
 # Team Name: Code Runner67
-# Team Member: Aryan Saini
+# Team Member: 
+# Aryan Saini
 # Sayantika Roy
 # Introduction to token strategies
 # Ulitity of token
